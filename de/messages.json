@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
     "message": "Multi-Account-Containers hilft Ihnen, alle Teile Ihres Online-Lebens in verschiedene Tabs zu unterteilen. Benutzerdefinierte Etiketten und farbcodierte Tabs helfen dabei, verschiedene Aktivitäten – wie Online-Shopping, Reiseplanung oder das Abrufen von geschäftlichen E-Mails – voneinander zu trennen.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Neuen Tab öffnen in…",
@@ -251,7 +251,7 @@
   },
   "confirmNavigationTitle": {
     "message": "Multi-Account-Container – Navigation bestätigen",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "In Umgebung $containerName$ öffnen",

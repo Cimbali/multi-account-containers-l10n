@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers vám pomůže uchovávat všechny části vašeho online života v různých panelech. Vlastní štítky a barevně odlišené panely pomáhají držet různé činnosti – jako třeba nakupování online, plánování cestování nebo kontrolu pracovních e-mailů – odděleně.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers vám pomůže uchovávat všechny části vašeho online života v různých panelech. Vlastní štítky a barevně odlišené panely pomáhají držet různé činnosti – jako třeba nakupování online, plánování cestování nebo kontrolu pracovních e-mailů – odděleně.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Otevřít nový panel v…",
@@ -91,7 +91,7 @@
     "message": "Otevřeli jste 100 kontejnerových panelů."
   },
   "spreadTheWord": {
-    "message": "Pokud se vám Multi-Account Containers líbí, pomozte nám to říct ostatním!"
+    "message": "Pokud se vám Multiply-Assigned Containers líbí, pomozte nám to říct ostatním!"
   },
   "rate": {
     "message": "Ohodnotit"
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Potvrzení navigace v Multi-Account Containers",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Potvrzení navigace v Multiply-Assigned Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Otevřít v kontejneru $containerName$",

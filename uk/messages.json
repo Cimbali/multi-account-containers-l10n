@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Функція Multi-Account Containers допомагає користуватися різними частинами вашої роботи в Інтернеті незалежно в різних вкладках. Власні мітки і колір вкладок забезпечують зручність користування для різних цілей окремо, наприклад, покупки, планування подорожі, перевірка робочої електронної пошти.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Функція Multiply-Assigned Containers допомагає користуватися різними частинами вашої роботи в Інтернеті незалежно в різних вкладках. Власні мітки і колір вкладок забезпечують зручність користування для різних цілей окремо, наприклад, покупки, планування подорожі, перевірка робочої електронної пошти.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Відкрити нову вкладку в…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Підтвердження навігації для Multi-Account Containers",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Підтвердження навігації для Multiply-Assigned Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Відкрити в контейнері $containerName$",

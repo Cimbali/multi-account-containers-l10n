@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Doplnok Multi-Account Containers vám pomôže udržať súčasti vášho online života na rôznych kartách. Vlastné štítky a farebne odlíšené karty pomáhajú oddeliť rôzne aktivity, ako je nakupovanie online, plánovanie ciest alebo kontrola pracovných e-mailov.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Doplnok Multiply-Assigned Containers vám pomôže udržať súčasti vášho online života na rôznych kartách. Vlastné štítky a farebne odlíšené karty pomáhajú oddeliť rôzne aktivity, ako je nakupovanie online, plánovanie ciest alebo kontrola pracovných e-mailov.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Otvoriť novú kartu v…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Potvrdenie navigácie v Multi-Account Containers",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Potvrdenie navigácie v Multiply-Assigned Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Otvoriť v kontajneri $containerName$",

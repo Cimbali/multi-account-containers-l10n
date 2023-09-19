@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers 可透過將網路生活中所需的各種網站封裝於不同容器中，來幫助您管理分頁。自訂標籤及色彩，幫助您分別管理各種活動 — 例如線上購物、行程規劃、收發工作郵件等等。",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers 可透過將網路生活中所需的各種網站封裝於不同容器中，來幫助您管理分頁。自訂標籤及色彩，幫助您分別管理各種活動 — 例如線上購物、行程規劃、收發工作郵件等等。",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "使用其他容器開啟新分頁…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers 確認瀏覽",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers 確認瀏覽",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "用 $containerName$ 容器開啟",

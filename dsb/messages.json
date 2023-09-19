@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers wam pomaga, wšykne źěle wašogo žywjenja online do rozdźělnych rejtarikow rozdźěliś. Swójske etikety a z barwu koděrowane rejtariki pomagaju, rozdźělne aktiwity – ako nakupowanje online, planowanje drogowanjow abo cytanje słužbnych mejlkow – wótgranicowaś.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers wam pomaga, wšykne źěle wašogo žywjenja online do rozdźělnych rejtarikow rozdźěliś. Swójske etikety a z barwu koděrowane rejtariki pomagaju, rozdźělne aktiwity – ako nakupowanje online, planowanje drogowanjow abo cytanje słužbnych mejlkow – wótgranicowaś.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Nowy rejtarik wócyniś w…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers - Nawigaciju wobkšuśiś",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers - Nawigaciju wobkšuśiś",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "W kontejnerje $containerName$ wócyniś",

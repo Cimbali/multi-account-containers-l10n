@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
     "message": "Mitme konto konteinerid aitavad sul hoida kõik oma võrguelu osad erinevatel kaartidel. Kohandatud siltide ja värvikoodidega kaartidega on sul võimalik hoida lahus erinevad tegevused — nagu veebipoodlemine, reisimise planeerimine, töö e-posti kontrollimine jne.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Ava uuel kaardil konteineris…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Lisa Multi-Account Containers navigeerimise kinnitamine",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Lisa Multiply-Assigned Containers navigeerimise kinnitamine",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Ava konteineris $containerName$",

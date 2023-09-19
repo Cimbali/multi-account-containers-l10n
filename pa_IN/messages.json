@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
     "message": "ਬਹੁ-ਖਾਤਾ ਕਨਟੇਨਰ ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਜ਼ਿੰਦਗੀ ਦੇ ਸਾਰੇ ਹਿੱਸਿਆਂ ਨੂੰ ਵੱਖ-ਵੱਖ ਟੈਬਾਂ ਵਿੱਚ ਵੰਡਣ ਲਈ ਮਦਦਗਾਰ ਹਨ। ਵੱਖੋ-ਵੱਖਰੀ ਸਰਗਰਮੀਆਂ ਲਈ ਪਸੰਦੀਦਾ ਲੇਬਲ ਤੇ ਰੰਗ-ਬਰੰਗੀਆਂ ਟੈਬਾਂ ਰੱਖੋ — ਜਿਵੇਂ ਆਨਲਾਈਨ ਖਰੀਦਦਾਰੀ, ਯਾਤਰਾ ਦੀਆਂ ਸਕੀਮਾਂ ਜਾਂ ਕੰਮ ਵਾਲੀਆਂ ਈਮੇਲਾਂ — ਸਭ ਵੱਖੋ-ਵੱਖ।",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "ਨਵੀਂ ਟੈਬ ਇਸ ਵਿੱਚ ਖੋਲ੍ਹੋ…",
@@ -251,7 +251,7 @@
   },
   "confirmNavigationTitle": {
     "message": "ਬਹੁ-ਖਾਤਾ ਕਨਟੇਨਰ ਤਸਦੀਕ ਨੇਵੀਗੇਸ਼ਨ",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "$containerName$ ਕਨਟੇਨਰਾਂ ਵਿੱਚ ਖੋਲ੍ਹੋ",

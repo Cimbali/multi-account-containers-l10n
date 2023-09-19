@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "З дапамогай «Multi-Account Containers» вы можаце захоўваць усе аспекты сваёй працы ў Інтэрнэце ў асобных незалежных картках. Уласныя меткі і колер картак дапамагаюць падзяляць пакупкі ў Інтэрнэце, планаванне падарожжаў, праверку працоўнай электроннай пошты і іншую дзейнасць.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "З дапамогай «Multiply-Assigned Containers» вы можаце захоўваць усе аспекты сваёй працы ў Інтэрнэце ў асобных незалежных картках. Уласныя меткі і колер картак дапамагаюць падзяляць пакупкі ў Інтэрнэце, планаванне падарожжаў, праверку працоўнай электроннай пошты і іншую дзейнасць.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Адкрыць новую картку ў…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Пацвярджэнне навігацыі для Multi-Account Containers",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Пацвярджэнне навігацыі для Multiply-Assigned Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Адкрыць у кантэйнеры «$containerName$»",

@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Mei Multi-Account Containers kinne jo alle ûnderdielen fan jo onlinelibben yn ferskate ljepblêden hâlde. Oanpaste labels en kleurkodearre ljepblêden helpe ferskate aktiviteiten – lykas online winkelje, reisplanning of it lêzen fan saaklike e-mail – skieden te hâlden.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Mei Multiply-Assigned Containers kinne jo alle ûnderdielen fan jo onlinelibben yn ferskate ljepblêden hâlde. Oanpaste labels en kleurkodearre ljepblêden helpe ferskate aktiviteiten – lykas online winkelje, reisplanning of it lêzen fan saaklike e-mail – skieden te hâlden.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Nij ljepblêd iepenje yn…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers – Navigaasje befêstigje",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers – Navigaasje befêstigje",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Yn kontener $containerName$ iepenje",

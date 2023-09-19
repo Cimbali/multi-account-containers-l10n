@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers -eristystilat auttavat sinua pitämään verkossa tekemäsi asiat toisistaan erillään eri välilehdissä. Mukautetut nimikkeet ja värein merkityt välilehdet mahdollistavat erilaisten toimien — kuten verkko-ostosten, lomasuunnitelmien ja työsähköpostin — eriyttämisen.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers -eristystilat auttavat sinua pitämään verkossa tekemäsi asiat toisistaan erillään eri välilehdissä. Mukautetut nimikkeet ja värein merkityt välilehdet mahdollistavat erilaisten toimien — kuten verkko-ostosten, lomasuunnitelmien ja työsähköpostin — eriyttämisen.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Avaa uusi välilehti eristystilassa…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers -eristystilojen navigoinnin vahvistaminen",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers -eristystilojen navigoinnin vahvistaminen",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Avaa $containerName$ eristystilassa",

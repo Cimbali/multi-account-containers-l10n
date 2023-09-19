@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers te ayuda a tener todas las partes de tu vida en línea aisladas en diferentes pestañas. Etiquetas personalizadas y pestañas coloreadas te ayudan a mantener diferentes actividades — como compras en línea, planificación de viajes o revisar tu correo del trabajo — separadas.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers te ayuda a tener todas las partes de tu vida en línea aisladas en diferentes pestañas. Etiquetas personalizadas y pestañas coloreadas te ayudan a mantener diferentes actividades — como compras en línea, planificación de viajes o revisar tu correo del trabajo — separadas.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Abrir nueva pestaña en…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers - Confirmar navegación",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers - Confirmar navegación",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Abrir en el contenedor $containerName$",

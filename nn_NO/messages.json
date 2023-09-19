@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers hjelper deg med å halde alle delane av livet ditt på nettet i forskjellige faner. Eigendefinerte etikettar og fargekoda faner hjelper deg med å halde ulike aktivitetar — som netthandel, reiseplanlegging eller sjekking av jobb-e-post — kvar for seg.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers hjelper deg med å halde alle delane av livet ditt på nettet i forskjellige faner. Eigendefinerte etikettar og fargekoda faner hjelper deg med å halde ulike aktivitetar — som netthandel, reiseplanlegging eller sjekking av jobb-e-post — kvar for seg.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Opne ny fane i…",
@@ -251,7 +251,7 @@
   },
   "confirmNavigationTitle": {
     "message": "Multi-Account-Container – Stadfest navigering",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Opne i behaldaren $containerName$",

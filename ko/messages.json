@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
     "message": "Multi-Account Container를 사용하면 온라인 생활의 모든 부분을 다양한 탭에 보관할 수 있습니다. 사용자 지정 레이블과 색상으로 구분된 탭은 온라인 쇼핑, 여행 계획 또는 업무 이메일 확인과 같은 다양한 활동을 별도로 유지하는 데 도움이 됩니다.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "다음에서 새 탭 열기…",
@@ -251,7 +251,7 @@
   },
   "confirmNavigationTitle": {
     "message": "Multi-Account Container 탐색 확인",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "$containerName$ Container에서 열기",

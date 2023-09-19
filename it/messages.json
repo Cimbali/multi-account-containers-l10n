@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers ti permette di isolare le diverse parti della tua vita online in schede diverse. Le etichette personalizzate e le schede con codifica colorata aiutano a separare le attività, come lo shopping online, la pianificazione dei viaggi o il controllo della posta elettronica per lavoro.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers ti permette di isolare le diverse parti della tua vita online in schede diverse. Le etichette personalizzate e le schede con codifica colorata aiutano a separare le attività, come lo shopping online, la pianificazione dei viaggi o il controllo della posta elettronica per lavoro.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Apri nuova scheda in…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers — Conferma navigazione",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers — Conferma navigazione",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Apri in contenitore “$containerName$”",

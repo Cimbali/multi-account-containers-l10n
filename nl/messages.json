@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Met Multi-Account Containers kunt u alle onderdelen van uw onlineleven in verschillende tabbladen houden. Aangepaste labels en kleurgecodeerde tabbladen helpen verschillende activiteiten – zoals online winkelen, reisplanning of het lezen van zakelijke e-mail – gescheiden te houden.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Met Multiply-Assigned Containers kunt u alle onderdelen van uw onlineleven in verschillende tabbladen houden. Aangepaste labels en kleurgecodeerde tabbladen helpen verschillende activiteiten – zoals online winkelen, reisplanning of het lezen van zakelijke e-mail – gescheiden te houden.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Nieuw tabblad openen in…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers – Navigatie bevestigen",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers – Navigatie bevestigen",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "In container $containerName$ openen",

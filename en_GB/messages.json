@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers helps you keep all the parts of your online life contained in different tabs. Custom labels and colour-coded tabs help keep different activities — like online shopping, travel planning, or checking work email — separate.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers helps you keep all the parts of your online life contained in different tabs. Custom labels and colour-coded tabs help keep different activities — like online shopping, travel planning, or checking work email — separate.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Open New Tab in…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers Confirm Navigation",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers Confirm Navigation",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Open in $containerName$ Container",

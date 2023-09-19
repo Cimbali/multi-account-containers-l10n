@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers vous aide à garder toutes les facettes de votre vie numérique dans différents onglets. Les noms personnalisés et les onglets à code couleur permettent de séparer les différentes activités, telles que les achats en ligne, la planification de voyages ou la consultation des e-mails professionnels.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers vous aide à garder toutes les facettes de votre vie numérique dans différents onglets. Les noms personnalisés et les onglets à code couleur permettent de séparer les différentes activités, telles que les achats en ligne, la planification de voyages ou la consultation des e-mails professionnels.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Ouvrir un nouvel onglet dans…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers – Confirmer la navigation",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers – Confirmer la navigation",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Ouvrir dans le conteneur $containerName$",

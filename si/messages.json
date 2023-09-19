@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers භාවිතයෙන් ඔබගේ මාර්ගගත කටයුතුවල සියළුම කොටස් විවිධ පටිති තුළ තබා ගැනීමට හැකිය. මාර්ගගත සාප්පු සවාරි, චාරිකා සැලසුම්, හෝ කාර්යාල වි-තැපැල් පරීක්‍ෂා කිරීමට ආදී — විවිධ ක්‍රියාකාරකම් පහසුවෙන් හඳුනා ගැනීමට අභිරුචි නම්පත් සහ වර්ණ-කේතිත පටිති යොදා ගන්න.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers භාවිතයෙන් ඔබගේ මාර්ගගත කටයුතුවල සියළුම කොටස් විවිධ පටිති තුළ තබා ගැනීමට හැකිය. මාර්ගගත සාප්පු සවාරි, චාරිකා සැලසුම්, හෝ කාර්යාල වි-තැපැල් පරීක්‍ෂා කිරීමට ආදී — විවිධ ක්‍රියාකාරකම් පහසුවෙන් හඳුනා ගැනීමට අභිරුචි නම්පත් සහ වර්ණ-කේතිත පටිති යොදා ගන්න.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "මෙහි පටිත්තක් අරින්න…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers යාත්‍රණය තහවුරුව",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers යාත්‍රණය තහවුරුව",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "$containerName$ අඩංගුව තුළ අරින්න",

@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "A Multi-Account Containers segítségével online életének minden részét különböző, elszigetelt lapokon tárolhatja. Az egyéni címkék és a színkódolt lapok segítenek megkülönböztetni a különböző tevékenységeket – például az online vásárlást, az utazástervezést vagy a munkahelyi e-mailek ellenőrzését.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "A Multiply-Assigned Containers segítségével online életének minden részét különböző, elszigetelt lapokon tárolhatja. Az egyéni címkék és a színkódolt lapok segítenek megkülönböztetni a különböző tevékenységeket – például az online vásárlást, az utazástervezést vagy a munkahelyi e-mailek ellenőrzését.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Új lap megnyitása itt…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers  – Navigáció megerősítése",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers  – Navigáció megerősítése",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Megnyitás a(z) $containerName$ konténerben",

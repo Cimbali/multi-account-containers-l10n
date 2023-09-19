@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Το Multi-Account Containers σάς βοηθά να έχετε όλες τις πτυχές της διαδικτυακής σας ζωής σε διαφορετικές καρτέλες. Οι προσαρμοσμένες ετικέτες και τα χρώματα σάς επιτρέπουν να ξεχωρίσετε τις διάφορες δραστηριότητες — αγορές, σχεδιασμός ταξιδιών ή έλεγχος εργασιακού email.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Το Multiply-Assigned Containers σάς βοηθά να έχετε όλες τις πτυχές της διαδικτυακής σας ζωής σε διαφορετικές καρτέλες. Οι προσαρμοσμένες ετικέτες και τα χρώματα σάς επιτρέπουν να ξεχωρίσετε τις διάφορες δραστηριότητες — αγορές, σχεδιασμός ταξιδιών ή έλεγχος εργασιακού email.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Άνοιγμα νέας καρτέλας σε…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers - Επιβεβαίωση πλοήγησης",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers - Επιβεβαίωση πλοήγησης",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Άνοιγμα σε καρτέλα «$containerName$»",

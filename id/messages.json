@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Pengaya Multi-Account Containers membantu untuk memilah kehidupan daring Anda ke dalam tab yang berbeda. Label khusus dan tab berkode warna bantu menjaga berbagai aktivitas — seperti belanja daring, rencana perjalanan, atau memeriksa surel kantor — terpisah.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Pengaya Multiply-Assigned Containers membantu untuk memilah kehidupan daring Anda ke dalam tab yang berbeda. Label khusus dan tab berkode warna bantu menjaga berbagai aktivitas — seperti belanja daring, rencana perjalanan, atau memeriksa surel kantor — terpisah.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Buka Tab Baru di…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Navigasi Konfirmasi Multi-Account Containers",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Navigasi Konfirmasi Multiply-Assigned Containers",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Buka dalam $containerName$ container",

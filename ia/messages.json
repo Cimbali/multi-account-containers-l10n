@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
     "message": "Le contentores multi-conto te adjuta a mantener tote le partes de tu vita in linea continite in schedas differente. Etiquettas personalisate e schedas a codice de color adjuta a tener separate le differente activitates, como: compras in linea, planification de viages o lectura de e-mail de labor.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Aperir un nove scheda in…",
@@ -251,7 +251,7 @@
   },
   "confirmNavigationTitle": {
     "message": "Contentores multi-conto: confirmar navigation",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Aperir in le contentor $containerName$",

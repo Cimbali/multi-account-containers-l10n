@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers hjälper dig att hålla alla delar av ditt onlineliv separerade i olika flikar. Anpassade etiketter och färgkodade flikar hjälper till att hålla olika aktiviteter — som onlineshopping, reseplanering eller kolla jobbmejl — åtskilda.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers hjälper dig att hålla alla delar av ditt onlineliv separerade i olika flikar. Anpassade etiketter och färgkodade flikar hjälper till att hålla olika aktiviteter — som onlineshopping, reseplanering eller kolla jobbmejl — åtskilda.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Öppna ny flik i…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers - Bekräfta navigering",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers - Bekräfta navigering",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Öppna i behållare $containerName$",

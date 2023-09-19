@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
-    "message": "Multi-Account Containers wam pomha, wšě dźěle wašeho žiwjenja online do rozdźělnych rajtarkow rozdźělić. Swójske etikety a z barbu kodowane rajtarki pomhaja, rozdźělne aktiwity – kaž nakupowanje online, planowanje pućowanjow abo čitanje słužbnych mejlkow – wotmjezować.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers wam pomha, wšě dźěle wašeho žiwjenja online do rozdźělnych rajtarkow rozdźělić. Swójske etikety a z barbu kodowane rajtarki pomhaja, rozdźělne aktiwity – kaž nakupowanje online, planowanje pućowanjow abo čitanje słužbnych mejlkow – wotmjezować.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Nowy rajtark wočinić w…",
@@ -250,8 +250,8 @@
     }
   },
   "confirmNavigationTitle": {
-    "message": "Multi-Account Containers - Nawigaciju wobkrućić",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "message": "Multiply-Assigned Containers - Nawigaciju wobkrućić",
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "W kontejnerje $containerName$ wočinić",

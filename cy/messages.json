@@ -1,7 +1,7 @@
 {
   "extensionDescription": {
     "message": "Mae Cynhwysyddion Aml-Gyfrifon yn eich helpu i gadw holl rannau eich bywyd ar-lein mewn gwahanol dabiau. Mae labeli personol a thabiau â chodau lliw yn helpu i gadw gwahanol weithgareddau - fel siopa ar-lein, cynllunio teithio, neu wirio e-bost gwaith - ar wahân.",
-    "description": "Description of the extension. DO NOT TRANSLATE \"Multi-Account Containers\"."
+    "description": "Description of the extension. DO NOT TRANSLATE \"Multiply-Assigned Containers\"."
   },
   "openInNewTabTitle": {
     "message": "Agor y Tab Newydd yn…",
@@ -251,7 +251,7 @@
   },
   "confirmNavigationTitle": {
     "message": "Tudalen Cadarnhau Llywio Cynwysyddion Aml-Gyfrifon",
-    "description": "This is the title of a confirmation page. Please do not translate \"Multi-Account Containers\"."
+    "description": "This is the title of a confirmation page. Please do not translate \"Multiply-Assigned Containers\"."
   },
   "openInContainer": {
     "message": "Agor yng Nghynhwysydd $containerName$",
