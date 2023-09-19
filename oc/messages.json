@@ -15,13 +15,6 @@
     "message": "Totjorn dobrir lo aqueste dins…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Totjorn dobrir dins…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Totjorn dobrir lo site dins d‘aquí"
-  },
   "openANewTabIn": {
     "message": "Dobrir un onglet novèl dins…"
   },

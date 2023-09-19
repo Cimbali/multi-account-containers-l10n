@@ -19,13 +19,6 @@
     "message": "Opne alltid denne nettstaden i…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Opne alltid i…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Opne alltid nettstaden i behaldar"
-  },
   "openANewTabIn": {
     "message": "Opne ei ny fane i…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Neste"
   },
-  "openThisSiteConfirmation": {
-    "message": "Opne denne nettstaden i den tildelte behaldaren?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Vil du framleis opne i denne gjeldande behaldaren?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "Opne i gjeldande fane",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Du ba Firefox om alltid å opne $containerName$ for denne nettstaden:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Vel plassering",

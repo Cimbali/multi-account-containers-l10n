@@ -19,13 +19,6 @@
     "message": "Avaa tämä sivusto aina eristystilassa…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Avaa aina eristystilassa…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Avaa sivusto aina eristystilassa"
-  },
   "openANewTabIn": {
     "message": "Avaa uusi välilehti eristystilassa…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Seuraava"
   },
-  "openThisSiteConfirmation": {
-    "message": "Avataanko tämä sivusto sille määritetyssä eristystilassa?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Haluatko silti avata tässä nykyisessä eristystilassa?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "Avaa nykyisessä välilehdessä",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Pyysit Firefoxin avaavan aina eristystilan $containerName$ tälle sivustolle:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Valitse sijainti",

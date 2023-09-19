@@ -19,13 +19,6 @@
     "message": "Toś to sedło pśecej wócyniś w…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Pśecej wócyniś w…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Sedło pśecej w kontejnerje wócyniś"
-  },
   "openANewTabIn": {
     "message": "Nowy rejtarik wócyniś w…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Dalej"
   },
-  "openThisSiteConfirmation": {
-    "message": "Toś to sydło we wašom pśipokazanem kontejnerje wócyniś?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Cośo hyšći w aktualnem kontejnerje wócyniś?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "W aktualnem rejtariku wócyniś",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Sćo pšosył Firefox, $containerName$ pśecej za toś to sedło wócyniś:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Stojnišćo wubraś",

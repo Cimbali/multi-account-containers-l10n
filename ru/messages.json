@@ -19,13 +19,6 @@
     "message": "Всегда открывать этот сайт в…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Всегда открывать в…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Всегда открывать сайт в контейнере"
-  },
   "openANewTabIn": {
     "message": "Открыть новую вкладку в…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Далее"
   },
-  "openThisSiteConfirmation": {
-    "message": "Открыть этот сайт в назначенном вами контейнере?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Вы по-прежнему хотите открыть в текущем контейнере?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "Открыть в текущей вкладке",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Вы попросили Firefox всегда открывать этот сайт в $containerName$:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Выбрать местоположение",

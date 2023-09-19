@@ -19,13 +19,6 @@
     "message": "අඩවිය සැමවිට මෙහි අරින්න…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "මෙහි සැමවිට අරින්න…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "සැමවිට අඩංගුව තුළ අඩවිය අරින්න"
-  },
   "openANewTabIn": {
     "message": "මෙහි පටිත්තක් අරින්න…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "ඊළඟ"
   },
-  "openThisSiteConfirmation": {
-    "message": "පවරා තිබෙන අඩංගුව තුළ මෙම අඩවිය අරින්නද?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "ඔබ තවමත් මෙම වත්මන් අඩංගුව තුළ විවෘත කිරීමට කැමතිද?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "වත්මන් පටිත්තෙන් අරින්න",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "මෙම අඩවිය සැමවිට $containerName$ හි විවෘත කරන ලෙස ඔබ ෆයර්ෆොක්ස් වෙත දන්වා ඇත:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "ස්ථානය තෝරන්න",

@@ -19,13 +19,6 @@
     "message": "Diese Website immer öffnen in…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Immer öffnen in…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Website immer in Umgebung öffnen"
-  },
   "openANewTabIn": {
     "message": "Einen neuen Tab öffnen in…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Weiter"
   },
-  "openThisSiteConfirmation": {
-    "message": "Diese Website in Ihrer zugewiesenen Umgebung öffnen?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Soll diese Website trotzdem in dieser aktuellen Umgebung geöffnet werden?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "Im aktuellen Tab öffnen",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Sie haben Firefox gebeten, für diese Website immer $containerName$ zu öffnen:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Standort auswählen",

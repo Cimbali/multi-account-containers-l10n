@@ -19,13 +19,6 @@
     "message": "Dizze website altyd iepenje yn…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Altyd iepenje yn…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Website altyd yn kontener iepenje"
-  },
   "openANewTabIn": {
     "message": "Nij ljepblêd iepenje yn…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Folgjende"
   },
-  "openThisSiteConfirmation": {
-    "message": "Dizze website yn jo tawiisde kontener iepenje?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Wolle jo noch hieltyd yn dizze aktuele kontener iepenje?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "Iepenje yn aktuele ljepblêd",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Jo hawwe Firefox frege om foar dizze website altyd $containerName$ te iepenjen:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Lokaasje kieze",

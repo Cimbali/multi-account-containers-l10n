@@ -19,13 +19,6 @@
     "message": "Ava see sait alati konteineris…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Ava alati konteineris…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Sait avatakse alati konteineris"
-  },
   "openANewTabIn": {
     "message": "Ava uus kaart konteineris…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Edasi"
   },
-  "openThisSiteConfirmation": {
-    "message": "Kas avada see sait määratud konteineris?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Kas soovid siiski avada selles praeguses konteineris?"
   },
@@ -255,14 +245,6 @@
   },
   "openInContainer": {
     "message": "Ava konteineris $containerName$",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
-  },
-  "youAskedFirefox": {
-    "message": "Oled määranud Firefoxi järgnevat saiti alati avama konteineris $containerName$:",
     "placeholders": {
       "containerName": {
         "content": "$1"

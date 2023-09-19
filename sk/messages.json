@@ -19,13 +19,6 @@
     "message": "Túto stránku vždy otvárať v…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Vždy otvárať v…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Stránku vždy otvárať v kontajneri"
-  },
   "openANewTabIn": {
     "message": "Otvoriť novú kartu v…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Ďalej"
   },
-  "openThisSiteConfirmation": {
-    "message": "Chcete otvoriť túto lokalitu vo vami priradenom kontajneri?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Chceli by ste stránku vždy otvárať v tomto aktuálnom kontajneri?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "Otvoriť na aktuálnej karte",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Požiadali ste Firefox, aby pre túto stránku vždy otvoril kontajner $containerName$:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Vyberte umiestnenie",

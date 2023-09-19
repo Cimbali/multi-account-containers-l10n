@@ -20,11 +20,11 @@
     "description": "Menu title"
   },
   "alwaysOpenIn": {
-    "message": "Always open in…",
+    "message": "Assign Site to Containers",
     "description": "Menu title"
   },
   "alwaysOpenSiteInContainer": {
-    "message": "Always Open Site in Container"
+    "message": "Open this site in an assigned Container?"
   },
   "openANewTabIn": {
     "message" : "Open a New Tab in…"
@@ -182,7 +182,7 @@
     "message": "Next"
   },
   "openThisSiteConfirmation": {
-    "message": "Open this site in your assigned Container?"
+    "message": "Open this site in an assigned Container?"
   },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Would you still like to open in this current Container?"
@@ -266,9 +266,9 @@
     "description": "This is the button text in confirmation page when we are not inside a container"
   },
   "youAskedFirefox": {
-    "message": "You asked Firefox to always open $containerName$ for this site:",
+    "message": "You asked Firefox to always open this site in one of these containers: $containerNames$",
     "placeholders": {
-      "containerName": {
+      "containerNames": {
         "content": "$1"
       }
     }

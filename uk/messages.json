@@ -19,13 +19,6 @@
     "message": "Завжди відкривати цей сайт у…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Завжди відкривати у…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Завжди відкривати сайт у контейнері"
-  },
   "openANewTabIn": {
     "message": "Відкрити нову вкладку в…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Далі"
   },
-  "openThisSiteConfirmation": {
-    "message": "Відкрити цей сайт у призначеному контейнері?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Ви все ще хочете відкрити в поточному контейнері?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "Відкрити в поточній вкладці",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Ви дали запит Firefox завжди відкривати $containerName$ для цього сайту:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Вибрати розташування",

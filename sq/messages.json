@@ -19,13 +19,6 @@
     "message": "Hape Përherë Këtë Sajt në…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Hape përherë në…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Hape Sajtin Përherë në Kontejner"
-  },
   "openANewTabIn": {
     "message": "Hap një Skedë të Re në…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Pasuesja"
   },
-  "openThisSiteConfirmation": {
-    "message": "Të hapet ky sajt në Kontejnerin që i është caktuar?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Doni ende të hapet në këtë Kontejner të tanishëm?"
   },
@@ -260,14 +250,6 @@
   "openInNoContainer": {
     "message": "Hape në skedën e tanishme",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "I kërkuat Firefox-it të hapë përherë $containerName$ për këtë sajt:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Zgjidhni vendndodhje",

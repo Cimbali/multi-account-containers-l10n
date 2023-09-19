@@ -19,13 +19,6 @@
     "message": "이 사이트를 항상 다음 위치에서 열기…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "항상 다음에서 열기…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "항상 컨테이너에 사이트 열기"
-  },
   "openANewTabIn": {
     "message": "다음에서 새 탭 열기…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "다음"
   },
-  "openThisSiteConfirmation": {
-    "message": "할당된 Container에서 이 사이트를 여시겠습니까?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "현재 Container에서 계속 여시겠습니까?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "현재 탭에서 열기",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "이 사이트에 대해 항상 $containerName$를 열도록 Firefox에 요청했습니다:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "위치 선택",

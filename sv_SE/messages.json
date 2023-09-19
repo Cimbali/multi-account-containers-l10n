@@ -19,13 +19,6 @@
     "message": "Öppna alltid den här webbplatsen i…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Öppna alltid i…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Öppna alltid webbplats i behållare"
-  },
   "openANewTabIn": {
     "message": "Öppna en ny flik i…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Nästa"
   },
-  "openThisSiteConfirmation": {
-    "message": "Öppna den här webbplatsen i din tilldelade behållare?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Vill du fortfarande öppna i den här aktuella behållaren?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "Öppna på aktuell flik",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Du bad Firefox att alltid öppna $containerName$ för den här webbplatsen:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Välj plats",

@@ -19,13 +19,6 @@
     "message": "總是用下列容器開啟此網站…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "總是用下列容器開啟…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "總是用容器開啟網站"
-  },
   "openANewTabIn": {
     "message": "用下列容器開啟新分頁…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "下一步"
   },
-  "openThisSiteConfirmation": {
-    "message": "要用您指定的容器開啟此網站嗎？"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "您還想要使用目前的容器開啟嗎？"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "用目前分頁開啟",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "您要求 Firefox 總是使用 $containerName$ 開啟此網站:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "選擇位置",

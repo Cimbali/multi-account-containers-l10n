@@ -19,13 +19,6 @@
     "message": "Selalu Buka Situs Ini di…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Selalu buka di…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Selalu Buka Situs dalam Kontainer"
-  },
   "openANewTabIn": {
     "message": "Buka Tab Baru di…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Lanjut"
   },
-  "openThisSiteConfirmation": {
-    "message": "Buka situs ini dalam Kontainer yang Anda tentukan?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Apakah Anda masih ingin membuka dalam Kontainer saat ini?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "Buka di tab saat ini",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Anda meminta Firefox untuk selalu membuka $containerName$ untuk situs ini:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Pilih lokasi",

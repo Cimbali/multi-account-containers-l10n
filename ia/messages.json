@@ -19,13 +19,6 @@
     "message": "Sempre aperir iste sito in…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Sempre aperir in…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Sempre aperir sito in contentor"
-  },
   "openANewTabIn": {
     "message": "Aperir un nove scheda in…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Sequente"
   },
-  "openThisSiteConfirmation": {
-    "message": "Aperir iste sito in tu contentor assignate?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Vole tu ancora aperir iste sito in le contentor actual?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "Aperir in le scheda actual",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Tu ha demandate a Firefox de sempre aperir $containerName$ pro iste sito:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Elige un position",

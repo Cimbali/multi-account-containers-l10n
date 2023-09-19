@@ -19,13 +19,6 @@
     "message": "Siempre abrir este sitio en…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Siempre abrir en…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Siempre abrir sitio en contenedor"
-  },
   "openANewTabIn": {
     "message": "Abrir una nueva pestaña en…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Siguiente"
   },
-  "openThisSiteConfirmation": {
-    "message": "¿Abrir este sitio en su contenedor asignado?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "¿Todavía le gustaría abrir en este contenedor actual?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "Abrir en la pestaña actual",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Pediste a Firefox que siempre abra $containerName$ para este sitio:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Elegir ubicación",

@@ -19,13 +19,6 @@
     "message": "Πάντα άνοιγμα του ιστοτόπου σε…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Πάντα άνοιγμα σε…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Πάντα άνοιγμα του ιστοτόπου σε θεματική ενότητα"
-  },
   "openANewTabIn": {
     "message": "Άνοιγμα νέας καρτέλας σε…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Επόμενο"
   },
-  "openThisSiteConfirmation": {
-    "message": "Άνοιγμα ιστοτόπου στην καθορισμένη θεματική ενότητα;"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Θα θέλατε ακόμα να το ανοίξετε σε αυτήν τη θεματική ενότητα;"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "Άνοιγμα στην τρέχουσα καρτέλα",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Έχετε ζητήσει από το Firefox να ανοίγει πάντα το «$containerName$» για τον ιστότοπο:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Επιλογή τοποθεσίας",

@@ -19,13 +19,6 @@
     "message": "总是用身份标签页打开此网站…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "总是用身份标签页打开…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "总是用身份标签页打开网站"
-  },
   "openANewTabIn": {
     "message": "新建身份标签页打开…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "下一步"
   },
-  "openThisSiteConfirmation": {
-    "message": "要用您指定的身份打开此网站吗？"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "仍要以当前身份打开？"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "用当前标签页打开",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "您要求 Firefox 总以“$containerName$”身份打开此网站：",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "选择位置",

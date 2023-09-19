@@ -19,13 +19,6 @@
     "message": "ਇਸ ਸਾਈਟ ਨੂੰ ਹਮੇਸ਼ਾਂ ਇਸ ਵਿੱਚ ਖੋਲ੍ਹੋ…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "ਹਮੇਸ਼ਾਂ ਇਸ ਵਿੱਚ ਖੋਲ੍ਹੋ…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "ਸਾਈਟ ਨੂੰ ਹਮੇਸ਼ਾਂ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹੋ"
-  },
   "openANewTabIn": {
     "message": "ਨਵੀਂ ਟੈਬ ਇਸ ਵਿੱਚ ਖੋਲ੍ਹੋ…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "ਅੱਗੇ"
   },
-  "openThisSiteConfirmation": {
-    "message": "ਇਸ ਸਾਈਟ ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਨਿਯਤ ਕੀਤੇ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹਣਾ ਹੈ?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "ਕੀ ਤੁਸੀਂ ਇਸ ਨੂੰ ਹਾਲੇ ਵੀ ਇਸ ਮੌਜੂਦਾ ਕਨਟੇਨਰ ਵਿੱਚ ਖੋਲ੍ਹਣਾ ਚਾਹੋਗੇ?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "ਮੌਜੂਦਾ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "ਤੁਸੀਂ Firefox ਇਸ ਸਾਈਟ ਨੂੰ ਹਮੇਸ਼ਾਂ $containerName$ ਨਾਲ ਖੋਲ੍ਹਣ ਦੀ ਹਿਦਾਇਤ ਕੀਤੀ ਹੈ:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "ਟਿਕਾਣਾ ਚੁਣੋ",

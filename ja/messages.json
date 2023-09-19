@@ -19,13 +19,6 @@
     "message": "常にこのサイトを開くコンテナー...",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "常に開くコンテナー...",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "常にコンテナーでサイトを開く"
-  },
   "openANewTabIn": {
     "message": "新しいタブを開くコンテナー..."
   },
@@ -126,9 +119,6 @@
   },
   "next": {
     "message": "次へ"
-  },
-  "openThisSiteConfirmation": {
-    "message": "このサイトを割り当てられたコンテナーで開きますか？"
   },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "この現在のコンテナーで開きますか？"

@@ -19,13 +19,6 @@
     "message": "Vždy otevírat tento web v…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Vždy otevírat v…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Stránku vždy otevírat v kontejneru"
-  },
   "openANewTabIn": {
     "message": "Otevřít nový panel v…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Dále"
   },
-  "openThisSiteConfirmation": {
-    "message": "Otevřít tento web ve vámi přiřazeném kontejneru?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Stále si přejete web otevřít v aktuálním kontejneru?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "Otevřít v současném panelu",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Požádali jste Firefox, aby pro tento web vždy otevřel kontejner $containerName$:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Vyberte umístění",

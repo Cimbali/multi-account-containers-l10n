@@ -19,13 +19,6 @@
     "message": "Tute sydło přeco wočinić w…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Přeco wočinić w…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Sydło přeco w kontejnerje wočinić"
-  },
   "openANewTabIn": {
     "message": "Nowy rajtark wočinić w…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Dale"
   },
-  "openThisSiteConfirmation": {
-    "message": "Tute sydło we wašim připokazanym kontejnerje wočinić?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Chceće hišće w aktualnym kontejnerje wočinić?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "W aktualnym rajtarku wočinić",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Sće Firefox prosył, $containerName$ přeco za tute sydło wočinić:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Stejnišćo wubrać",

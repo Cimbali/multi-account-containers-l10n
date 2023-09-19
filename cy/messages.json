@@ -19,13 +19,6 @@
     "message": "Agor y Wefan hon bob tro yn…",
     "description": "Menu title"
   },
-  "alwaysOpenIn": {
-    "message": "Ar agor bob tro yn…",
-    "description": "Menu title"
-  },
-  "alwaysOpenSiteInContainer": {
-    "message": "Agor y Wefan mewn Cynhwysydd bob tro"
-  },
   "openANewTabIn": {
     "message": "Agor Tab Newydd yn…"
   },
@@ -181,9 +174,6 @@
   "next": {
     "message": "Nesaf"
   },
-  "openThisSiteConfirmation": {
-    "message": "Agor y wefan hon yn eich Cynhwysydd neilltuedig?"
-  },
   "wouldYouStillLikeToOpenConfirmation": {
     "message": "Hoffech chi ei agor yn y Cynhwysydd cyfredol hwn?"
   },
@@ -264,14 +254,6 @@
   "openInNoContainer": {
     "message": "Agor yn y tab cyfredol",
     "description": "This is the button text in confirmation page when we are not inside a container"
-  },
-  "youAskedFirefox": {
-    "message": "Rydych wedi gofyn i Firefox i agor $containerName$ bob tro ar gyfer y wefan hon:",
-    "placeholders": {
-      "containerName": {
-        "content": "$1"
-      }
-    }
   },
   "chooseLocation": {
     "message": "Dewis lleoliad",
